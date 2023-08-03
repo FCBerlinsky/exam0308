@@ -1,0 +1,7 @@
+ 1317  sudo apt install imagemagick
+ 1318  touch rotate_pic.sh
+ 1319  chmod +x rotate_pic.sh 
+ 1320  ./rotate_pic.sh ./Images/
+ 1321  history
+ 1322  history | tail -n 5
+ 1323  history | tail -n 7 >> Outputs/history_2.txt
