@@ -1,0 +1,45 @@
+ 1331  touch tofahrenheit.py
+ 1332  chmod +x tofahrenheit.py 
+ 1333  python3 tofahrenheit.py 
+ 1334  python3 tofahrenheit.py 35
+ 1335  clear
+ 1336  python3 tofahrenheit.py 35
+ 1337  touch myscripy.sh
+ 1338  chmod +x myscripy.sh 
+ 1339  ./myscripy.sh 
+ 1340  ./myscripy.sh
+ 1341  clear
+ 1342  ./myscripy.sh
+ 1343  touch Dockerfile
+ 1344  docker build -t docker_image .
+ 1345  docker build -t docker_img
+ 1346  docker build -t my_image_name .
+ 1347  docker --version
+ 1348  sudo apt install docker
+ 1349  docker build -t dock_img .
+ 1350  $ ls -l /usr/bin/ | grep docker
+ 1351  ls -l /usr/bin/ | grep docker
+ 1352  docker --version
+ 1353  docker build -t dock_img .
+ 1354  docker run -it dock_img
+ 1355  ./myscripy.sh 
+ 1356  docker run -t dock_img
+ 1357  docker run -it dock_img
+ 1358  docker ps -a
+ 1359  docker run --rm -v dock_img
+ 1360  docker run -it --rm -v dock_img
+ 1361  ./myscripy.sh 
+ 1362  3
+ 1363  s
+ 1364  clear
+ 1365  ./myscripy.sh 
+ 1366  docker run --rm -v "$(pwd)/Outputs:/app/Outputs" dock_img
+ 1367  docker ps -a
+ 1368  docker run --rm -v dock_img
+ 1369  git add .
+ 1370  git commit -m "ex3 docker"
+ 1371  git push origin master
+ 1372  history
+ 1373  history | tail -n 40
+ 1374  history | tail -n 45
+ 1375  history | tail -n 45 >> Outputs/history_3.txt
