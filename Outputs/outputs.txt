@@ -1,5 +1,5 @@
 Temperature in Fahrenheit : 68.0
-Temperature in Fahrenheit : 86.0
-Temperature in Fahrenheit : 212.0
-Temperature in Fahrenheit : 523.4000000000001
-Temperature in Fahrenheit : 93.2
+Temperature in Fahrenheit : 50.0
+Temperature in Fahrenheit : 35.6
+Temperature in Fahrenheit : 37.4
+Temperature in Fahrenheit : 39.2
